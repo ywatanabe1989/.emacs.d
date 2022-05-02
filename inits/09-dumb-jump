@@ -1,0 +1,4 @@
+(require 'dumb-jump)
+(setq dumb-jump-default-project "")
+(setq dumb-jump-force-searcher 'rg)
+(dumb-jump-mode)

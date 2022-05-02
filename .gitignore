@@ -1,0 +1,11 @@
+elpa/*
+!elpa/.gitkeep
+
+auto-save-list/*
+!auto-save-list/.gitkeep
+
+
+network-security.data
+
+*~
+#*

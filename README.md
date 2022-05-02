@@ -1,7 +1,7 @@
 ## Install Emacs on Ubuntu
 ```
 sudo sh ./docs/install_the_latest_emacs_on_ubuntu.sh
-export PATH=/opt/emacs-latest/bin:$PATH >> ~/.bashrc
+export PATH=/opt/emacs-latest/bin:$PATH # Please add to ~/.bashrc or ~/.bash_profile would be convenient
 ```
 
 ## Install this repo's configurations

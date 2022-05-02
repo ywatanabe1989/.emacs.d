@@ -1,6 +1,6 @@
-## Install the latest Emacs on Ubuntu
+## Install Emacs on Ubuntu
 ```
-sudo sh ./install/emacs_29.0.50_on_ubuntu.sh
+sudo sh ./docs/install_the_latest_emacs_on_ubuntu.sh
 ```
 
 ## Install this repo's configurations
